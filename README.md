@@ -1,1 +1,1 @@
-- [ ] The CNAME record doesn't contain `Hello World` or `Idiots`.  <!-- This is not required if you are not using a CNAME record. --
+- [ ] `The CNAME record doesn't contain `Hello World` or `Idiots`.  <!-- This is not required if you are not using a CNAME record. --`
