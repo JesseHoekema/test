@@ -3,5 +3,7 @@ theme: jekyll-theme-architect
 show_downloads: false
 github:
   is_project_page: false
+header:
+  teaser: banner.png
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-dinky
