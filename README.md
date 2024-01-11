@@ -2,4 +2,3 @@
 ### and click [here](https://github.com/JesseHoekema/test/labels/updates) to see new updates to projects 
 ### always free to use
 #### no copyright
-[![GitHub Streak](https://streak-stats.demolab.com?user=jessehoekema)](https://git.io/streak-stats)
