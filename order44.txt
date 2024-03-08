@@ -1,0 +1,34 @@
+email: zakelijk@desdev.com
+telefoon: 0659648544
+note: {
+  (elk kantoor dat kan)
+  (8 elitedesks)
+  (8 monitors)
+  (misschien 2 custom pc's)
+  (led logo)
+  (elke kerst kerstversiering)
+  (8 zwarte verstelbare tafels)
+  (8 zwarte stoelen)
+  (1 tv)
+}
+Datums {
+  1 juli ❌
+  5 maart ✅
+  4 maart ❌
+  10 maart ✅
+  20 maart ❌
+  25 maart ✅
+}
+kantoor {
+  kantoor 395
+}
+Dienst (jesse): {
+  volgende week zaterdag
+  volgende week zondag
+  volgende volgende week zaterdag
+  volgende volgende zondag
+  
+}
+
+
+
